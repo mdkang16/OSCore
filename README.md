@@ -1,0 +1,2 @@
+# OSCore
+OS Core Project 
